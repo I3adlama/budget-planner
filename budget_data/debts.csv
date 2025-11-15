@@ -1,0 +1,13 @@
+debt_type,name,balance,starting_balance,apr,min_payment,due_day
+Credit Card,Discover,1462.34,1462.34,26.74,103.58,7
+Loan,Affirm - (Amazon),355.58,355.58,35.89,27.35,28
+Loan,Affirm - (Whisker),686.17,686.17,35.97,85.77,16
+Credit Card,Capital One - (Venture),2849.99,2849.99,28.74,102.0,14
+Credit Card,Capital One - (Quicksilver),933.13,933.13,28.74,31.0,6
+Credit Card,Milestone - (Indigo),524.59,524.59,35.9,40.0,14
+Loan,Upstart - (A),3256.24,3256.24,27.69,108.33,7
+Loan,Upstart - (B),4918.55,4918.55,25.59,272.49,23
+Loan,Student - (A),1573.9,1573.9,3.86,36.79,4
+Loan,Student - (B),591.04,591.04,3.86,13.82,4
+Family,Mom,250.0,250.0,0.0,0.0,1
+Family,Pops,1000.0,1000.0,0.0,0.0,1

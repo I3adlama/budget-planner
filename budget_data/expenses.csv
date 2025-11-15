@@ -1,0 +1,15 @@
+name,amount,frequency,subcategory,due_day
+Geico,66.91,Monthly,Car,8
+Xfinity,147.92,Monthly,Phones,16
+ChatGPT,19.99,Monthly,Subscriptions,23
+Crave,38.61,Monthly,Cats,12
+Dr. Elsey's Litter,33.3,Monthly,Cats,2
+Gas,60.0,Monthly,Car,1
+Oil,30.0,Monthly,Car,1
+Spotify,16.99,Monthly,Subscriptions,23
+Vape,60.0,Monthly,Tobacco,1
+Zyn,60.0,Monthly,Tobacco,1
+Diapers,60.0,Monthly,Baby,1
+Wipes,40.0,Monthly,Baby,1
+Time4Learning,30.0,Monthly,School,1
+Fun,100.0,Monthly,Entertainment,1
